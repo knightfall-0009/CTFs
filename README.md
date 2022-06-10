@@ -1,2 +1,2 @@
 # CTFs
-Contains sources of all CTFs I played
+Contains sources of all CTF challenges I play
